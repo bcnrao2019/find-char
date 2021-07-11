@@ -12,3 +12,6 @@ for d in range(len(a)-1):
 
 print('list c:', c)
 
+# this comment was added at github page
+# address of this file is https://github.com/bcnrao2019/find-char/edit/main/main.py
+# time stamp 2021-07-11 19:08
